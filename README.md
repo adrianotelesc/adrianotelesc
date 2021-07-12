@@ -42,4 +42,5 @@
 
 <br/>
 
-[![Adriano Teles’ GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianotelesc&show_icons=true)](https://github.com/adrianotelesc)
+[![Adriano Teles’ GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianotelesc&show_icons=true&count_private=true&theme=omni)](https://github.com/adrianotelesc)
+
