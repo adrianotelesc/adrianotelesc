@@ -7,7 +7,7 @@
 <a href="mailto:adriano.telesc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adriano.telesc@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<p><em>Android Engineer at <a href="https://gok.digital">GO.K</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Android Engineer at <a href="https://www.kobe.io/">Kobe</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 #### 👨🏻‍💻 &nbsp; About me
