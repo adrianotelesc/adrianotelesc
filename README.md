@@ -36,6 +36,6 @@
 
 [![Personal account activity graph](https://activity-graph.herokuapp.com/graph?username=adrianotelesc&theme=github&custom_title=Personal%20Account%20Contribution%20Graph)](#)
 
-[![Work account activity graph](https://activity-graph.herokuapp.com/graph?username=kobe-adrianoteles&theme=github&custom_title=Work%20Account%20Contribution%20Graph)](#)
+[![Work account activity graph](https://activity-graph.herokuapp.com/graph?username=kobe-adrianoteles&theme=github&custom_title=Work%20Account%20Contribution%20Graph)](https://github.com/kobe-adrianoteles)
 
 
