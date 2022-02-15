@@ -34,7 +34,8 @@
 <a href="https://dart.dev" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></a>
 <a href="https://godotengine.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/godotengine/godotengine-ar21.svg"></a>
 
-<br/>
+[![Personal account activity graph](https://activity-graph.herokuapp.com/graph?username=adrianotelesc&theme=github&custom_title=Personal%20Account%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Adriano Teles’ GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianotelesc&show_icons=true&count_private=true&theme=dark)](https://github.com/adrianotelesc)
+[![Work account activity graph](https://activity-graph.herokuapp.com/graph?username=kobe-adrianoteles&theme=github&custom_title=Work%20Account%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
