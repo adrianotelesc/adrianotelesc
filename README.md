@@ -21,7 +21,7 @@
 <a href="https://git-scm.com/" target="_blank"><img height="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a>
 <a href="https://developer.android.com/studio" target="_blank"><img height="50" src="https://www.thegoandroid.com/wp-content/uploads/2021/05/Untitled-10.png"></a>
 <a href="https://kotlinlang.org" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/2048px-Kotlin_Icon_2021.svg.png"></a>
-<a href="https://www.w3.org/XML/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"></a>
+<a href="https://www.w3.org/XML/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/XML_icon.svg"></a>
 <a href="https://gradle.org" target="_blank"><img height="50" src="https://avatars.githubusercontent.com/u/124156?s=400&v=4"></a>
 <a href="https://www.sqlite.org/index.html" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"></a>
 <a href="https://www.json.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/2048px-JSON_vector_logo.svg.png"></a>
