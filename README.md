@@ -1,4 +1,4 @@
-<h3>Hi there, I'm Adriano! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"></h3>
+<h3>Hi there, I'm Adriano! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" style="width:auto;height:29px;"></h3>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
