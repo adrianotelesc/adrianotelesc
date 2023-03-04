@@ -1,6 +1,6 @@
 <h2>Hi there 👋🏻 I'm Adriano!</h3>
 
-<img align='right' src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="310"> 
+<img align='right' src="https://user-images.githubusercontent.com/23182226/222915656-4fe09425-f368-4fc1-9128-82e5ede7e1f0.png" width="600"> 
 
 <p>
   <a href="mailto:adriano.telesc@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"></a>
