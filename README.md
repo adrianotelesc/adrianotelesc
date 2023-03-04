@@ -1,7 +1,6 @@
 <h2>Hi there 👋🏻 I'm Adriano!</h3>
 
-<img align='right' src="https://user-images.githubusercontent.com/23182226/222915656-4fe09425-f368-4fc1-9128-82e5ede7e1f0.png" width="600"> 
-
+<img align='right' src="https://user-images.githubusercontent.com/23182226/222915656-4fe09425-f368-4fc1-9128-82e5ede7e1f0.png" height="250">
 <p>
   <a href="mailto:adriano.telesc@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/adrianotelesc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
